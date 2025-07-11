@@ -760,3 +760,9 @@ mt-3 {
 .fas{
   font-weight: 700;
 }
+.main-logo{
+  font-size: 34px;
+  font-weight: 700;
+  color: #fec544;
+  font-family: 'Times New Roman', Times, serif;
+}
