@@ -11,6 +11,9 @@ body {
 .st-main-header {
   background-color: #0a101e;
 }
+.main-color{
+  color: #fec544;
+}
 
 .st-main-header-in {
   padding: 15px 0;
